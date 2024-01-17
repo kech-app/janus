@@ -18,11 +18,6 @@ Using LUX should be very simple, but Designing LUX can be hard.
 
 So we will start with the simple: The LUX DSL user perspective.
 
-## Previous art
-Who cares about previous art, anyway?
-
-You can Google it or ask GPT if you care.
-
 ## Lux basics: Attributes, Widgets and Fields
 
 in LUX:
@@ -58,7 +53,7 @@ defmodule Demo.Tickets.Representative do
 
 somewhere else we define widgets:
 ```elixir
-widgets
+widgets do
   wigdet :text_widget do
     heex: :tailwind, "<input class='px4 mx5 text-xl' value="@value" /><input>  # this is easy to design
     heex: :carbonui_wc, "<cds-text-imput ...></cds-text-imput> # this is easy to design
@@ -84,10 +79,10 @@ coming soon
 ..
 
 # UX Magic Grammar DSL
-not coming soon. 
+NOT coming soon. 
 ..
 
 # UX Magic Flow DSL
-not coming soon
+NOT coming soon
 ..
 
