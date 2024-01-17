@@ -91,3 +91,6 @@ NOT coming soon
 # Disclaimer
 I am not inventing any new concept. I am just curating good designs and putting a DSL together.
 
+## GPT Ramblings
+gpt-ramblings
+
