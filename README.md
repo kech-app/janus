@@ -75,19 +75,19 @@ end
 
 ## Views DSL 
 coming soon
-..
+
 ## ViewArchitectures DSL
 coming soon
-..
+
 ## Archetypes DSL
 coming soon
-..
 
-# UX Magic Grammar DSL
-NOT coming soon. 
-..
-
-# UX Magic Flow DSL
+## UX Grammar DSL
 NOT coming soon
-..
+
+## UX Flow DSL
+NOT coming soon
+
+# Disclaimer
+I am not inventing any new concept. I am just curating good designs and putting a DSL together.
 
