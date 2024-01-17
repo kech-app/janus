@@ -92,5 +92,7 @@ NOT coming soon
 I am not inventing any new concept. I am just curating good designs and putting a DSL together.
 
 ## GPT Ramblings
-gpt-ramblings
+I asked GPT to imagine how this could look like, and he made some good ramblings:
+
+[gpt-ramblings](https://github.com/kech-app/janus/tree/main/gpt-ramblings)https://github.com/kech-app/janus/tree/main/gpt-ramblings
 
