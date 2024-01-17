@@ -10,6 +10,10 @@
 
 LUX is a [Janusian Thinking](https://www.creativitypost.com/article/janusian_thinking) design effort to revisit how we think about UI for software applications.
 
+We are respecting contradictory perspectives to the application design effort: 
+- **dividing**-analyzing - conquer & conquest - **loved** by engineers - pragmatism - working **things**
+- **unifying**-synthesizing - unified perspective - **loved** by designers - harmony - beautiful **things**
+
 Using LUX should be very simple, but Designing LUX can be hard.
 
 So we will start with the simple: The LUX DSL user perspective.
