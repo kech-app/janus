@@ -17,7 +17,7 @@ We are respecting contradictory perspectives to the application design effort:
 - **dividing**-analyzing - conquer & conquest - **loved** by engineers - pragmatism - working **things**
 - **unifying**-synthesizing - unified perspective - **loved** by designers - harmony - beautiful **things**
 
-Using Janus should be very simple, but Designing LUX can be hard.
+Using Janus should be very simple, but Designing it can be hard.
 
 So we will start with the simple: The Janus DSL user perspective.
 
