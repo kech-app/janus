@@ -57,7 +57,9 @@ widgets do
   wigdet :text_widget do
     heex: :tailwind, "<input class='px4 mx5 text-xl' value="@value" /><input>  # this is easy to design
     heex: :carbonui_wc, "<cds-text-imput ...></cds-text-imput> # this is easy to design
+    volt: :tailwind       # NB: I don't understand VOLT yet, but I have to consider it, for the love of ash
     jsx:  :carbon_react   # Hey Chakib, this is Hard to design, and you promised we stay simple ! lol
+
   end  
   
   wigdet :markdown_widget do
