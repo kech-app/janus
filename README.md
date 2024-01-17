@@ -1,6 +1,7 @@
-# LUX - A UX DSL
+# Janus - A UX DSL
 
 *"Light is a wave, no Light is a particle"*
+![image](https://github.com/kech-app/janus/assets/4276047/dc489bb7-d653-43d6-964e-a19530246c7a)
 
 ## Introduction
 
@@ -8,19 +9,19 @@
 - Interaction Designers make graphical interfaces
 - LLMs and Programmers write code
 
-LUX is a [Janusian Thinking](https://www.creativitypost.com/article/janusian_thinking) design effort to revisit how we think about UI for software applications.
+This project is a [Janusian Thinking](https://www.creativitypost.com/article/janusian_thinking) design effort to revisit how we think about UI for software applications.
 
 We are respecting contradictory perspectives to the application design effort: 
 - **dividing**-analyzing - conquer & conquest - **loved** by engineers - pragmatism - working **things**
 - **unifying**-synthesizing - unified perspective - **loved** by designers - harmony - beautiful **things**
 
-Using LUX should be very simple, but Designing LUX can be hard.
+Using Janus should be very simple, but Designing LUX can be hard.
 
-So we will start with the simple: The LUX DSL user perspective.
+So we will start with the simple: The Janus DSL user perspective.
 
-## Lux basics: Attributes, Widgets and Fields
+## Janus basics: Attributes, Widgets and Fields
 
-in LUX:
+in Janus:
 
 $$field = attribute + widget$$
 
@@ -30,7 +31,7 @@ let sketch some code :
 defmodule Demo.Tickets.Representative do
   use Ash.Resource,
   extensions: [
-    Kech.Lux.Resource
+    Kech.Janus.Resource
   ]
 
   attributes do
